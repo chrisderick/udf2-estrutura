@@ -1,51 +1,56 @@
-﻿package pilhaestatica;
-
-import java.util.Arrays;
+package pilhaestatica;
 
 class PilhaEstatica {
-    private No[] pilha;
-    private int topo = 0;
+    private No pilha[];
+    private int topo = -1;
 
-    PilhaEstatica(int max) {
-        pilha = new No[max];
-    }
+    PilhaEstatica(int max) { pilha = new No[max]; }
 
     void push(int valor){
-        if(!isFull()){
-	    //TODO: socorr
-            pilha[topo].setValor(valor);
-            topo++;
-            System.out.println("Número " + valor + " adicionado com sucesso!");
-        } else {
+        if(isFull()){
             System.out.println("A pilha está cheia!");
+        } else {
+            topo++;
+            pilha[topo] = new No(valor, topo);
+            System.out.println("Número " + valor + " adicionado com sucesso!");
         }
     }
 
     void pop(){
         if (!isEmpty()){
-            pilha[(topo-1)].setValor(null);
-            System.out.println("Número " + pilha[(topo-1)].getValor() + " removido com sucesso!");
+            System.out.println("Número " + pilha[topo].getValor() + " removido com sucesso!");
+            pilha[topo] = null;
             topo--;
         } else {
             System.out.println("A pilha está vazia!");
         }
     }
 
-    String peek(){
-        if (!isEmpty()){
-            String stack = Arrays.toString(pilha);
-            return stack;
+    void peek() {
+        if (isEmpty()) {
+            System.out.println("A pilha está vazia!");
         } else {
-            String stack = "A pilha dinamica está vazia!";
-            return stack;
+            System.out.print("Pilha: ");
+            for (int i = (pilha.length-1); i > -1; i--) {
+                //Se o nó atual não for nulo, o bloco abaixo será executado
+                if (pilha[i] != null) {
+                    //Se for o último nó, a seta não será impressa
+                    if (i != 0){
+                        System.out.print(pilha[i].getValor() + " <- ");
+                    } else {
+                        System.out.println(pilha[i].getValor());
+                    }
+                }
+            }
         }
     }
 
     boolean isEmpty(){
-        return topo == 0;
+        return topo == -1;
     }
 
     boolean isFull(){
-        return topo >= pilha.length;
+        return topo == pilha.length-1;
     }
+
 }

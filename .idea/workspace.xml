@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab63ba78-ce3c-4611-8707-190a7c952653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaDados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EstruturaDados.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilha/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/No.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilha/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilha/PilhaApplication.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/christhyan_barbosa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstaticaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pilhaestatica/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaDinamica.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaDinamica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pilhaestatica/No.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pilhaestatica/No.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pilhaestatica/PilhaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pilhaestatica/PilhaEstatica.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pilhaestatica/PilhaEstatica.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,70 +27,30 @@
     <session id="-660780314">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="25" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="967" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="JAVA" value="2557" />
+          <entry key="PLAIN_TEXT" value="47" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-                <element signature="e#1076#1077#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/No.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,9 +78,12 @@
         <option value="$PROJECT_DIR$/src/main/java/pilha/PilhaApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaEstatica.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/No.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstaticaApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" />
       </list>
     </option>
   </component>
@@ -177,14 +144,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550519878804" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550777212535" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Programacao/programacao/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -203,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PilhaEstaticaApplication">
     <configuration name="PilhaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pilhaestatica.PilhaApplication" />
       <module name="EstruturaDados" />
@@ -217,12 +184,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PilhaDinamicaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pilhadinamica.PilhaDinamicaApplication" />
+      <module name="EstruturaDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pilhadinamica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PilhaEstaticaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pilhaestatica.PilhaEstaticaApplication" />
+      <module name="EstruturaDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pilhaestatica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PilhaApplication" />
+      <item itemvalue="Application.PilhaDinamicaApplication" />
+      <item itemvalue="Application.PilhaEstaticaApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PilhaEstaticaApplication" />
         <item itemvalue="Application.PilhaApplication" />
+        <item itemvalue="Application.PilhaDinamicaApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\christhyan.barbosa\Documents\Programacao\programacao\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -238,9 +239,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -248,7 +248,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32769832" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32769832" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32769832" />
@@ -259,6 +258,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32769832" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -273,13 +273,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -290,45 +283,38 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/No.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="267">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstaticaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>

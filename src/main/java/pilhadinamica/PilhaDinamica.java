@@ -1,22 +1,24 @@
 package pilhadinamica;
+//TODO: Deixar tudo package-private, colocar mensagem nos metódos e editar o retorno do peek!
 
-public class PilhaDinamica {
+class PilhaDinamica {
     private No top;
 
-    public PilhaDinamica() {
+    PilhaDinamica() {
         this.top = null;
     }
 
-    public void push(int valor){
+    void push(int valor){
         No novo = new No();
         novo.setNum(valor);
         novo.setPrevious(top);
         top = novo;
+        System.out.println("Número " + valor + " adicionado com sucesso!");
     }
 
-    public void pop(){
+    void pop(){
         if (top == null){
-            System.out.println("A pilha dinâmica está vazia!");
+            System.out.println("A pilha está vazia!");
         } else {
             int lixeira = top.getNum();
             System.out.println("Número " + lixeira + " removido com sucesso!");
@@ -24,12 +26,12 @@ public class PilhaDinamica {
         }
     }
 
-    public String peek(){
+    String peek(){
         String stack = "=====================\n";
         if (isEmpty()){
-            stack += "A pilha dinâmica está vazia!";
+            stack += "A pilha está vazia!";
         } else {
-            stack += "Pilha Dinâmica atual:";
+            stack += "Pilha:";
             No current = top;
             while (current != null){
                 stack += "\n" + current.getNum();
