@@ -7,15 +7,14 @@ class PilhaEstaticaApplication {
         Scanner s = new Scanner(System.in);
 
         //Declaração da pilha e atribuição do seu tamanho no parâmetro do construtor.
-        PilhaEstatica stack = new PilhaEstatica(2);
+        PilhaEstatica stack = new PilhaEstatica(3);
 
-        //Comandos da pilha (Os métodos isFull e isEmpty estão na modelo da Pilha Estática).
+        //Métodos da pilha (Os métodos isFull e isEmpty estão na classe PilhaEstatica).
         stack.push(8);
         stack.push(3);
         stack.push(1);
         stack.pop();
         stack.peek();
-        stack.pop();
         stack.pop();
         stack.push(2);
         stack.push(2);

@@ -1,22 +1,22 @@
 package pilhadinamica;
 
-public class No {
+class No {
     private int num;
     private No previous;
 
-    public int getNum() {
+    int getNum() {
         return num;
     }
 
-    public void setNum(int num) {
+    void setNum(int num) {
         this.num = num;
     }
 
-    public No getPrevious() {
+    No getPrevious() {
         return previous;
     }
 
-    public void setPrevious(No previous) {
+    void setPrevious(No previous) {
         this.previous = previous;
     }
 }

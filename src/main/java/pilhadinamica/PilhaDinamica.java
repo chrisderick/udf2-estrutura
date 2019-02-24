@@ -1,5 +1,4 @@
 package pilhadinamica;
-//TODO: Deixar tudo package-private, colocar mensagem nos metódos e editar o retorno do peek!
 
 class PilhaDinamica {
     private No top;
@@ -26,22 +25,22 @@ class PilhaDinamica {
         }
     }
 
-    String peek(){
-        String stack = "=====================\n";
+    void peek(){
+        System.out.println("=====================");
         if (isEmpty()){
-            stack += "A pilha está vazia!";
+            System.out.println("A pilha está vazia!");
         } else {
-            stack += "Pilha:";
+            System.out.println("Pilha: ");
             No current = top;
             while (current != null){
-                stack += "\n" + current.getNum();
+                System.out.println(current.getNum());
                 current = current.getPrevious();
             }
+            System.out.println();
         }
-        return stack;
     }
 
-    public boolean isEmpty(){
+    private boolean isEmpty(){
         return top == null;
     }
 

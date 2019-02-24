@@ -1,7 +1,7 @@
 package pilhaestatica;
 
 class PilhaEstatica {
-    private No pilha[];
+    private No[] pilha;
     private int topo = -1;
 
     PilhaEstatica(int max) { pilha = new No[max]; }
@@ -45,11 +45,11 @@ class PilhaEstatica {
         }
     }
 
-    boolean isEmpty(){
+    private boolean isEmpty(){
         return topo == -1;
     }
 
-    boolean isFull(){
+    private boolean isFull(){
         return topo == pilha.length-1;
     }
 
