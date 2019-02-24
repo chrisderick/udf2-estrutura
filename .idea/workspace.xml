@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab63ba78-ce3c-4611-8707-190a7c952653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Chris.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filadinamica/FilaDinamica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filadinamica/FilaDinamicaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filadinamica/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filaestatica/FilaEstatica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filaestatica/FilaEstaticaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filaestatica/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reversordepalavras/ReverseWordApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilhadinamica/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/No.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstaticaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstaticaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaDinamica.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaDinamica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaDinamicaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pilhadinamica/PilhaDinamicaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pilhaestatica/PilhaEstaticaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pilhaestatica/PilhaEstaticaApplication.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,41 +29,7 @@
     <favorites_list name="EstruturaDados" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1139#1140#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,7 +60,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/reversordepalavras/PilhaEstaticaApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" />
         <option value="$PROJECT_DIR$/src/main/java/reversordepalavras/PilhaEstatica.java" />
         <option value="$PROJECT_DIR$/src/main/java/reversordepalavras/ReverseWordApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/fila/No.java" />
@@ -126,9 +75,10 @@
         <option value="$PROJECT_DIR$/src/main/java/filaestatica/No.java" />
         <option value="$PROJECT_DIR$/src/main/java/filadinamica/No.java" />
         <option value="$PROJECT_DIR$/src/main/java/filadinamica/FilaDinamica.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/No.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java" />
         <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamicaApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pilhadinamica/No.java" />
       </list>
     </option>
   </component>
@@ -213,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551031556501" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551031879872" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../programacao/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
@@ -334,12 +284,20 @@
       <option name="presentableId" value="Default" />
       <updated>1550512337683</updated>
       <workItem from="1550960915892" duration="5234000" />
-      <workItem from="1551018981556" duration="12438000" />
+      <workItem from="1551018981556" duration="13353000" />
     </task>
+    <task id="LOCAL-00001" summary="Casa 24/02">
+      <created>1551031636217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551031636217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17672000" />
+    <option name="totallyTimeSpent" value="18587000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,7 +310,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.2596401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -391,6 +348,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Casa 24/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Casa 24/02" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -408,13 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -490,6 +444,30 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding>
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/PilhaDinamica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -500,13 +478,6 @@
             <element signature="e#1105#1106#0" expanded="true" />
             <element signature="e#1139#1140#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
