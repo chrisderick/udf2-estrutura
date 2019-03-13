@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab63ba78-ce3c-4611-8707-190a7c952653" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/Chris.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/christhyan_barbosa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/filadinamica/FilaDinamica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/filadinamica/FilaDinamicaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/filadinamica/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/filaestatica/FilaEstatica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/filaestatica/FilaEstaticaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/filaestatica/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pilhadinamica/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pilhadinamica/PilhaDinamica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pilhadinamica/PilhaDinamicaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pilhaestatica/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pilhaestatica/PilhaEstatica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pilhaestatica/PilhaEstaticaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/reversordepalavras/ReverseWordApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/META-INF/EstruturaDados.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/filadinamica/FilaDinamica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/filadinamica/FilaDinamicaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/filadinamica/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/filaestatica/FilaEstatica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/filaestatica/FilaEstaticaAppplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/filaestatica/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pilhadinamica/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pilhadinamica/PilhaDinamica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pilhadinamica/PilhaDinamicaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pilhaestatica/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pilhaestatica/PilhaEstatica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pilhaestatica/PilhaEstaticaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/reversordepalavras/ReverseWordApplication.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +63,22 @@
     <expand />
     <select />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="901471219">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="EstruturaDados" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,7 +96,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,64 +157,27 @@
           <expand>
             <path>
               <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
+              <item name="Pilhas e Filas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
+              <item name="Pilhas e Filas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="filadinamica" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="filaestatica" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstruturaDados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udf2-estrutura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pilhadinamica" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551031879872" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../programacao/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -311,7 +323,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.2596401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.26285347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -347,6 +359,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Casa 24/02" />
@@ -411,14 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4">
           <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#251#282#1" expanded="true" />
-            <element signature="e#760#791#0" expanded="true" />
-            <element signature="e#1484#1485#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -426,11 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#191#222#1" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2144#2145#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -441,19 +443,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pilhadinamica/No.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pilhaestatica/PilhaEstatica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -461,10 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -472,12 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1139#1140#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
