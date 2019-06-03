@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class Main {
+public class AdivinhaEstrutura {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int numComandos = s.nextInt();
@@ -37,35 +37,45 @@ public class Main {
                     filapri.offer(valor);
                 }
                 if (comando == 2) {
-                    //Se o valor a ser removido(pelo pop) for diferente do valor passado, a estrutura nao sera uma pilha
-                    Integer valorRemovido = pilha.pop();
-                    if (!valorRemovido.equals(valor)) {
+                    if (pilha.isEmpty() || fila.isEmpty() || filapri.isEmpty()){
                         isStack = false;
-                    }
-
-                    //Se o valor a ser removido(pelo poll) for diferente do valor passado, a estrutura nao sera uma fila
-                    valorRemovido = fila.poll();
-                    if (!valorRemovido.equals(valor)) {
                         isQueue = false;
-                    }
-
-                    //Se o valor a ser removido for diferente do maior valor aqui, a estrutura nao sera uma fila de prioridade
-                    Integer maiorValor = 0;
-                    for (Integer value: filapri) {
-                        if (value > maiorValor){
-                            maiorValor = value;
-                        }
-                    }
-                    if (!valor.equals(maiorValor)) {
                         isPriority = false;
+                    } else {
+                        //Se o valor a ser removido(pelo pop) for diferente do valor passado, a estrutura nao sera uma pilha
+                        Integer valorRemovido = pilha.pop();
+                        if (!valorRemovido.equals(valor)) {
+                            isStack = false;
+                        }
+
+                        //Se o valor a ser removido(pelo poll) for diferente do valor passado, a estrutura nao sera uma fila
+                        valorRemovido = fila.poll();
+                        if (!valorRemovido.equals(valor)) {
+                            isQueue = false;
+                        }
+
+                        //Se o valor a ser removido for diferente do maior valor aqui, a estrutura nao sera uma fila de prioridade
+                        Integer maiorValor = 0;
+                        for (Integer value : filapri) {
+                            if (value > maiorValor) {
+                                maiorValor = value;
+                            }
+                        }
+                        if (!valor.equals(maiorValor)) {
+                            isPriority = false;
+                        }
+                        //Ao final, o valor e removido
+                        filapri.remove(valor);
                     }
-                    //Ao final, o valor e removido
-                    filapri.remove(valor);
                 }
+            } else {
+                isStack = false;
+                isQueue = false;
+                isPriority = false;
             }
         }
 
-        //Comparações
+        //Comparacoes
         if ((isStack && isQueue) || (isStack && isPriority) || (isQueue && isPriority)){
             System.out.println("not sure");
         } else if (isStack) {
